@@ -25,6 +25,10 @@ To tackle these pain points, I conducted a deep dive into Uber Shuttle’s servi
 ✔️ A more relaxed & efficient commute experience.
 
 ---
+## See Project Engagement on LinkedIn 🔗
+Check out the discussion and engagement on LinkedIn: [View Post](https://www.linkedin.com/feed/update/urn:li:activity:7294397634767712256/)
+
+---
 
 #### 🔗 Connect with Me:
 Feel free to reach out if you have any suggestions or feedback!
