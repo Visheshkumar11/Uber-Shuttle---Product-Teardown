@@ -28,3 +28,8 @@ To tackle these pain points, I conducted a deep dive into Uber Shuttle’s servi
 
 #### 🔗 Connect with Me:
 Feel free to reach out if you have any suggestions or feedback!
+
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" width="30" style="margin-right:10px;">](https://www.linkedin.com/in/vishesh-kumar-53b553346/)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" alt="GitHub" width="30" style="margin-right:10px;">](https://github.com/Visheshkumar11)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/gmail.svg" alt="Email" width="30" style="margin-right:10px;">](mailto:vishesh.kumar.ug21@nsut.ac.in)
+
